@@ -11,5 +11,6 @@
                                               javax.jms/jms
                                               com.sun.jdmk/jmxtools
                                               com.sun.jmx/jmxri]]
+                 [org.slf4j/slf4j-simple "1.6.1"]
                  [jline "0.9.94"]]
   :dev-dependencies [[swank-clojure "1.3.0" :exclusions [org.clojure/clojure]]])
